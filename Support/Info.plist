@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>io.github.stuartwk.tyto</string>
+	<key>CFBundleName</key>
+	<string>tyto</string>
+	<key>NSAudioCaptureUsageDescription</key>
+	<string>tyto listens to other apps' audio so it can be transcribed on this Mac. Audio is processed live and never saved or sent anywhere.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>tyto listens to your microphone so your side of a conversation can be transcribed on this Mac. Audio is processed live and never saved or sent anywhere.</string>
+</dict>
+</plist>

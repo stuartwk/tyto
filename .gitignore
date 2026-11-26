@@ -1,0 +1,11 @@
+.DS_Store
+.build/
+.swiftpm/
+DerivedData/
+xcuserdata/
+
+# tyto never writes audio to disk. If a file like this appears, something is wrong.
+*.wav
+*.caf
+*.aiff
+*.m4a
